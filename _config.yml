@@ -24,9 +24,13 @@ twitter_username: mike_kaminsky
 github_username:  mikekaminsky
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+
+
+minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+locale: "en-US" 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
