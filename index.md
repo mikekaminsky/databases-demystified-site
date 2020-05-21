@@ -1,6 +1,6 @@
 ---
 layout: home
-author_profile: true
+author_profile: false
 ---
 
 <h1> E0: Introduction to Databases and SQL </h1>
